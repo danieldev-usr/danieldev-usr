@@ -1,6 +1,6 @@
 <h1 aling="center">Hi I'm CyberTerrorist</h1>
 <p align="center">
-  <img src="InShot_20210830_180406871.jpg" left="350" title=" ">
+  <img src="InShot_20210830_180406871.jpg" left="50" title=" " height="250" width="290">
 </p>
 
 ## User:checkered_flag:
