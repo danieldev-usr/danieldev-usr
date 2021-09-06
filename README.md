@@ -20,7 +20,7 @@
 - [IP-domain](https://github.com/CyberTerrorist-x/ip-domain)
 - [CEP-br](https://github.com/CyberTerrorist-x/cep-br)
 
-## Florks:
+## Forks:
 - [node-cep](https://github.com/CyberTerrorist-x/node-cep)
 - [Jogo](https://github.com/CyberTerrorist-x/jogo)
 
