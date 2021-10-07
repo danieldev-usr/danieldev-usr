@@ -24,12 +24,9 @@
 - [node-cep](https://github.com/CyberTerrorist-x/node-cep)
 - [Jogo](https://github.com/CyberTerrorist-x/jogo)
 
-<p align="center">
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Fox Technology</a> • 
- <a href="#licenc-a">CGH</a> • 
- <a href="#autor">By CyberTerrorist-x</a>
-</p>
+
+ 
+
 
 
 <img src="https://img.shields.io/static/v1?label=CYBER&message=Terrorist&color=7159c1&style=for-the-badge&logo=ghost"/>
