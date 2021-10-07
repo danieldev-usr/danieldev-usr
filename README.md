@@ -7,9 +7,9 @@
 
 :trophy: Estudante de TI
 
-:trophy: Informatica 
+:trophy: Informatica na lata 😎
 
-:trophy: Python C e Lua langs favoritas
+:trophy: Python Assembly e C é a meta 
 
 <h2 aling = "center"> Certificações </h2>
 
