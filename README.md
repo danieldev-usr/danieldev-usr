@@ -1,6 +1,6 @@
 <h1 aling="center">Hi I'm W.daniel</h1>
 <p align="center">
-  <img src="InShot_20210830_180406871.jpg" left="50" title=" " height="250" width="290">
+  <img src="4f8aab11-66d6-4182-917e-99962bbf5b5f.jpeg" left="60" title=" " height="270" width="450">
 </p>
 
 ## User:checkered_flag:
