@@ -13,7 +13,7 @@
 
 <h2 aling = "center"> Certificações </h2>
 
-> Tenho não sou burro kkkk
+> Hardware e montagem de computadores 
 
 
 ## Aplicações criadas:
