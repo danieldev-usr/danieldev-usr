@@ -1,4 +1,4 @@
-<h1 aling="center">Hi I'm CyberTerrorist</h1>
+<h1 aling="center">Hi I'm W.daniel</h1>
 <p align="center">
   <img src="InShot_20210830_180406871.jpg" left="50" title=" " height="250" width="290">
 </p>
@@ -9,7 +9,7 @@
 
 :trophy: Informatica na lata 😎
 
-:trophy: Python Assembly e C é a meta 
+:trophy: Python e C é a meta 
 
 <h2 aling = "center"> Certificações </h2>
 
