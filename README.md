@@ -5,11 +5,18 @@
 
 ## User:checkered_flag:
 
-:trophy: Estudante de TI
+```Estudante de TI```
 
-:trophy: Informatica na lata 😎
+```Técnico em Hardware de computadores```
 
-:trophy: Python e C é a meta 
+```Python e C é a minha meta ```
+
+
+
+``` python
+#Follow me
+print("Olá mundo")
+```
 
 <h2 aling = "center"> Certificações </h2>
 
@@ -24,10 +31,11 @@
 - [node-cep](https://github.com/CyberTerrorist-x/node-cep)
 - [Jogo](https://github.com/CyberTerrorist-x/jogo)
 
-
+## Organizações:
+- [SigitSec](https://github.com/orgs/SigitSec/)
  
 
 
 
-<img src="https://img.shields.io/static/v1?label=CYBER&message=Terrorist&color=7159c1&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=Daniel&message=Dev&color=7159c1&style=for-the-badge&logo=ghost"/>
 <h2 aling="left">Instagram: @daniewkiwi</h2>
