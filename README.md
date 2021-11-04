@@ -12,6 +12,7 @@
 ```Python e C é a minha meta ```
 
 
+<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
 ``` python
 #Follow me
@@ -34,8 +35,15 @@ print("Olá mundo")
 ## Organizações:
 - [SigitSec](https://github.com/orgs/SigitSec/)
  
+> <img src = "https://github-readme-stats.vercel.app/api?username=danieldev-usr"/>
 
 
+### Redes sociais e contato
+* <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+> - [Instagram](Instagram.com/daniewkiwi)
 
-<img src="https://img.shields.io/static/v1?label=Daniel&message=Dev&color=7159c1&style=for-the-badge&logo=ghost"/>
-<h2 aling="left">Instagram: @daniewkiwi</h2>
+* <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+> - [WhatsApp](wa.me/5533999218359)
+
+* <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+> - [Telegram](https://t.me/Metalhead965)
