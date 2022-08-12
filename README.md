@@ -42,10 +42,6 @@ print("Olá mundo")
 ### Redes sociais e contato
 * <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 > - [Instagram](Instagram.com/metalheadkkkk)
-
-* <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-> - [WhatsApp](wa.me/5533999218359)
-
 * <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 > - [Telegram](https://t.me/BaalZevuv6)
 ⁵
