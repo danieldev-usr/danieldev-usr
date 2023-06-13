@@ -9,7 +9,7 @@
 
 ```Técnico em Hardware de computadores```
 
-```Python e C é a minha meta ```
+```Python Dev```
 
 
 <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -28,6 +28,8 @@ print("Olá mundo")
 - [IP-domain](https://github.com/danieldev-usr/dan-ip)
 - [CEP-br](https://github.com/danieldev-usr/cep-br)
 - [Bot-telegram](https//github.com/danieldev-usr/bot-telegram)
+- [abbadonSE](https://github.com/danieldev-usr/abbadonSE)
+- [SuperCalc](https://github.com/danieldev-usr/SuperCalc)
 
 ## Forks:
 - [node-cep](https://github.com/danieldev-usr/node-cep)
