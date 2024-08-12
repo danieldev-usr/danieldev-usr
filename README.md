@@ -1,39 +1,40 @@
-<h1 aling="center">Hi I'm Wan.daniel</h1>
-<p align="center">
-  
-</p>
+# 👋 Olá, sou Wan Daniel
 
-## User:checkered_flag:
+**Mineiro | Desenvolvedor Python | Técnico em Hardware | Designer de Imagens | Desenvolvedor de Sistemas de Automação**
 
-```Estudante de TI```
+---
 
-```Tec Hardware 1/3```
+## 🌟 Sobre Mim
 
-```Python Dev```
+Sou o Wan, natural de Minas Gerais com uma paixão por cdiar e resolver problemas complexos, e transformar ideias em realidade. Tenho habilidades em desenvolvimento de software utilizando Python, criação de designs visuais impactantes e manutenção de hardware.
 
+## 💻 Habilidades
 
-<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+- **Programação:**
+  - Python (Automação, Scripting, Backend)
+- **Design de Imagens:**
+  - Criação de imagens, Design Gráfico, Edição Visual
+- **Desenvolvimento de Sistemas de Automação:**
+  - Criação de sistemas automatizados, Integração de API, Otimização de Processos
+- **Hardware:**
+  - Montagem e Manutenção, Diagnóstico, Solução de Problemas
 
-``` python
-#Follow me
-print("Olá mundo")
-```
+## 🚀 Projetos
 
-<h2 aling = "center"> Certificações </h2>
+Tenho um canal no telegram com cursos sobre tecnologia, com acesso a todo conteúdo de forma gratuita
+https://t.me/piratzxy
 
-## Aplicações criadas:
-- [IP-domain](https://github.com/danieldev-usr/dan-ip)
-- [CEP-br](https://github.com/danieldev-usr/cep-br)
-- [Bot-telegram](https//github.com/danieldev-usr/bot-telegram)
-- [abbadonSE](https://github.com/danieldev-usr/abbadonSE)
-- [SuperCalc](https://github.com/danieldev-usr/SuperCalc)
+E um canal de armas bélicas...
+https://t.me/bostildetodes
 
-## Forks:
-- [node-cep](https://github.com/danieldev-usr/node-cep)
-- [Jogo](https://github.com/danieldev-usr/jogo)
+---
 
-## Organizações:
-- [SigitSec](https://github.com/orgs/SigitSec/)
- 
-> <img src = "https://github-readme-stats.vercel.app/api?username=danieldev-usr"/>
+## 📱 Conecte-se Comigo
 
+- **Instagram:** [@wan.cxx](https://www.instagram.com/wan.cxx)
+
+Estou sempre aberto a novas oportunidades de colaboração e networking.
+
+---
+
+_"Unindo tecnologia e criatividade para construir soluções inovadoras."_
