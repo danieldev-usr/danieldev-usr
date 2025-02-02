@@ -1,15 +1,6 @@
 # 👋 Olá, sou Wan Daniel
 
 **Desenvolvedor Python | Técnico em Hardware | Designer de Imagens | Desenvolvedor de Sistemas de Automação**
-
----
-
-## 🌟 Sobre Mim
-
-Sou o Wan, natural de Minas Gerais com uma paixão por criar e resolver problemas complexos, e transformar ideias em realidade. Tenho habilidades em desenvolvimento de software utilizando Python, criação de designs visuais impactantes e manutenção de hardware. 
-
-- Nas horas vagas trabalho com o Termux, mas nesse caso mantenho sigilo em minhas especialidades...
-
 ## 💻 Habilidades
 
 - **Programação:**
@@ -25,9 +16,6 @@ Sou o Wan, natural de Minas Gerais com uma paixão por criar e resolver problema
 
 Tenho um canal no telegram com cursos sobre tecnologia, com acesso a todo conteúdo de forma gratuita.
 https://t.me/piratzxy
-
-E um canal de armas bélicas...
-
 https://t.me/bostildetodes
 
 ---
@@ -35,9 +23,3 @@ https://t.me/bostildetodes
 ## 📱 Conecte-se Comigo
 
 - **Instagram:** [@wan.cxx](https://www.instagram.com/wan.cxx)
-
-Estou sempre aberto a novas oportunidades de colaboração e networking.
-
----
-
-_"Unindo tecnologia e criatividade para construir soluções inovadoras."_
