@@ -1,4 +1,4 @@
-# 👋 Olá, sou Wan Daniel
+# Especializações?
 
 **Desenvolvedor Python | Técnico em Hardware | Designer de Imagens | Desenvolvedor de Sistemas de Automação**
 ## 💻 Habilidades
@@ -13,8 +13,6 @@
   - Montagem e Manutenção, Diagnóstico, Solução de Problemas
 
 ## 🚀 Projetos
-
-Tenho um canal no telegram com cursos sobre tecnologia, com acesso a todo conteúdo de forma gratuita.
 https://t.me/piratzxy
 https://t.me/bostildetodes
 
