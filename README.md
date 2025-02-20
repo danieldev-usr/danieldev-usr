@@ -12,7 +12,7 @@
 - **Hardware:**
   - Montagem e Manutenção, Diagnóstico, Solução de Problemas
 
-# Meus ProjetosTeksgtsosi
+# Meus Projetos
 
 ## 📦 Controle de Estoque
 Sistema para gerenciamento de estoque com funcionalidades essenciais para controle e organização de produtos.  
